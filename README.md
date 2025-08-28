@@ -14,6 +14,11 @@ Control Relay from telegram chat while monitoring temperature from DHT11 sensor 
 
 5. Group bot support: Works inside Telegram group chats instead of just direct bot chats.
 
+## Additional Commands 
+# Since this project relies on temperature sensoring and my room temperature is current I added a threshhold command to modify temperature run time
+
+_ /setth <temp_value> 
+
 ## Features 
 
 _ Real‑time temperature and humidity monitoring with DHT11/DHT22.
